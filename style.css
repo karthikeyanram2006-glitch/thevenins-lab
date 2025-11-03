@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to bottom right, #fde68a, #bfdbfe);
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+}
+input {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
